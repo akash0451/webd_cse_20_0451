@@ -21,7 +21,7 @@ function calculateResult() {
         totalMarks += mark;
     }
     // Step 4: Calculate average
-    let averageMarks = totalMarks / numSubjects;
+    let averageMarks = totalMark / numSubjects;
     averageMarks = parseFloat(averageMarks.toFixed(2));
     // Step 5: Determine grade
     let grade;
