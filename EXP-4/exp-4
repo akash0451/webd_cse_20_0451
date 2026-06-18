@@ -13,7 +13,7 @@
 <div class="col-md-6">
 <div class="card shadow-lg">
 <div class="card-body p-4">
-<h2 class="text-center mb-3">🎓 Student Result Calculator</h2>
+<h2 class="text-center mb-3">🎓 Students Result Calculator</h2>
 <p class="text-center text-muted">
 Enter number of subjects and calculate your result
 </p>
