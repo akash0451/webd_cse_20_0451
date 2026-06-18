@@ -27,7 +27,7 @@ abstract class BankAccount {
     // Display Account Details
     void displayDetails() {
 
-        System.out.println("Account Number: " + accountNumber);
+        System.out.println("Account Number: " + accountNumbers);
 
         System.out.println("Account Holder Name: " + accountHolderName);
 
